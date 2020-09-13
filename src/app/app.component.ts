@@ -10,3 +10,4 @@ export class AppComponent {
     console.log(`Adding article title: ${title.value} and link: ${link.value}`);
     return false;
 }
+}
